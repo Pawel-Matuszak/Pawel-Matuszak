@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Paweł and I graduated Computer Science in a technical school.
+I'm focused on frontend and backend technologies mainly React and Node.js.
+
+📫 Reach me: [pawelxmatuszak@gmail.com](pawelxmatuszak@gmail.com) | [Linkedin](https://www.linkedin.com/in/pawe%C5%82-matuszak-404a5523b/)
 <!--
 **Pawel-Matuszak/Pawel-Matuszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
