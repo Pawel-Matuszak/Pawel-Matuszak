@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paweł and I graduated Computer Science in a technical school.
+My name is Paweł and I graduated Computer Science in a technical school.  
 I'm focused on frontend and backend technologies mainly React and Node.js.
 
 📫 Reach me: [pawelxmatuszak@gmail.com](pawelxmatuszak@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-matuszak-404a5523b/)
