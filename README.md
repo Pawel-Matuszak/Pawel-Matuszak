@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paweł and I'm a Full Stack Developer passionate about improving and crafting innovative solutions to optimize user experience.
+My name is Paweł and I'm a Full Stack Developer passionate about improving and crafting innovative solutions to optimize user experience.  
 👨‍🎓 Currently studying Computer Science at the University of Economics in Katowice.  
 💻 Proficient in JavaScript, Next.js, and React with a strong foundation in Web3 applications and Firebase Cloud Functions.
 
