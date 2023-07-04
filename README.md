@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Paweł and I graduated Computer Science in a technical school.  
-👨‍🎓 Currently studying Computer Science at a university.  
-💻 I'm focused on frontend and backend technologies mainly React and Next.js.
+My name is Paweł and I'm a Full Stack Developer passionate about improving and crafting innovative solutions to optimize user experience.
+👨‍🎓 Currently studying Computer Science at the University of Economics in Katowice.  
+💻 Proficient in JavaScript, Next.js, and React with a strong foundation in Web3 applications and Firebase Cloud Functions.
 
 📫 Reach me: [pawelxmatuszak@gmail.com](pawelxmatuszak@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-matuszak-404a5523b/)
 <!--
